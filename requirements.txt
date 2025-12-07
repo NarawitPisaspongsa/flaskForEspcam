@@ -1,4 +1,1 @@
-flask
 ultralytics
-torch
-gunicorn
